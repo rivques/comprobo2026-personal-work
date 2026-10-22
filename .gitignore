@@ -3,3 +3,4 @@ __pycache__
 *.json
 *.vc.db
 *.vc.db.lock
+*.vscode
